@@ -1,0 +1,19 @@
+.App{
+    text-align: center;
+}
+
+.form{
+    width:50vw;
+    height: 50vh;
+    background-color: aqua;
+    margin: auto;
+    display: grid;
+    place-items: center;
+}
+
+.otp {
+    height: 40px;
+    width: 40px;
+    margin: auto;
+    text-align: center;
+}
